@@ -93,10 +93,7 @@ In modern enterprise networks, over 85% of traffic is normal. Running heavy mult
 
 ## 💻 4. How to Run the Project
 
-Navigate to the project root in PowerShell:
-```powershell
-cd C:\Users\adars\Downloads\Cybersecurity-Capstone-Project
-```
+From the project root in PowerShell, run:
 
 ### A. Launch Interactive Streamlit SOC Console (Best for Viva / Defense)
 ```powershell
@@ -200,8 +197,8 @@ Cybersecurity-Capstone-Project/
 
 | Document | Scope | Assignment Role |
 |---|---|---|
-| 📄 **[Assignment 1: Strategic Assessment Report](file:///C:/Users/adars/Downloads/Cybersecurity-Capstone-Project/docs/ASSIGNMENT_1_STRATEGIC_ASSESSMENT_REPORT.md)** | Full 2,850-word CISO problem-based report covering Questions 1 to 5. | **Assignment 1 Deliverable** |
-| 📄 **[Assignment 2: Technical Empirical Report](file:///C:/Users/adars/Downloads/Cybersecurity-Capstone-Project/docs/ASSIGNMENT_2_TECHNICAL_REPORT.md)** | Full technical benchmark report on CICIDS2017 (Decision Tree vs MLP vs Logistic Regression). | **Assignment 2 Deliverable** |
-| 📄 **[Comprehensive Capstone Project Report](file:///C:/Users/adars/Downloads/Cybersecurity-Capstone-Project/docs/CAPSTONE_PROJECT_REPORT.md)** | Grand Unified Capstone Report following university guidelines. | **Unified Final Thesis** |
-| 📐 **[Technical Architecture Specification](file:///C:/Users/adars/Downloads/Cybersecurity-Capstone-Project/docs/ARCHITECTURE.md)** | Dual-stage data flow diagrams, latency budgets, and REST contracts. | **System Architecture** |
-| 🎯 **[Comprehensive Viva Voce Preparation Guide](file:///C:/Users/adars/Downloads/Cybersecurity-Capstone-Project/docs/VIVA_QUESTIONS_GUIDE.md)** | 10 examiner questions with model answers (Governance, XAI, HITL, Class Imbalance, Tree vs MLP). | **Examiner Viva Kit** |
+| 📄 **[Assignment 1: Strategic Assessment Report](docs/ASSIGNMENT_1_STRATEGIC_ASSESSMENT_REPORT.md)** | Full 2,850-word CISO problem-based report covering Questions 1 to 5. | **Assignment 1 Deliverable** |
+| 📄 **[Assignment 2: Technical Empirical Report](docs/ASSIGNMENT_2_TECHNICAL_REPORT.md)** | Full technical benchmark report on CICIDS2017 (Decision Tree vs MLP vs Logistic Regression). | **Assignment 2 Deliverable** |
+| 📄 **[Comprehensive Capstone Project Report](docs/CAPSTONE_PROJECT_REPORT.md)** | Grand Unified Capstone Report following university guidelines. | **Unified Final Thesis** |
+| 📐 **[Technical Architecture Specification](docs/ARCHITECTURE.md)** | Dual-stage data flow diagrams, latency budgets, and REST contracts. | **System Architecture** |
+| 🎯 **[Comprehensive Viva Voce Preparation Guide](docs/VIVA_QUESTIONS_GUIDE.md)** | 10 examiner questions with model answers (Governance, XAI, HITL, Class Imbalance, Tree vs MLP). | **Examiner Viva Kit** |
